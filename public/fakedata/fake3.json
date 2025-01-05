@@ -1,0 +1,29 @@
+{
+    "id": 3,
+    "title": "Savannah Wildlife Safari",
+    "image": "https://i.ibb.co.com/tCTxKZ4/img3.webp",
+    "category": "Wildlife Safaris",
+    "shortDescription": "Experience the thrill of spotting exotic wildlife in their natural habitat.",
+    "cost": 200,
+    "bookingAvailability": true,
+    "location": "Masai Mara, Kenya",
+    "duration": "4 days",
+    "adventureLevel": "Easy",
+    "includedItems": [
+        "Safari Vehicle",
+        "Guide",
+        "Meals",
+        "Accommodation"
+    ],
+    "ecoFriendlyFeatures": [
+        "Solar-powered lodges",
+        "Local community support",
+        "Low-emission vehicles"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+        "Wear neutral colors",
+        "Carry binoculars",
+        "Avoid loud noises"
+    ]
+}

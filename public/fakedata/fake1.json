@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "title": "Mystic Mountain Trek",
+    "image": "https://i.ibb.co.com/SDkXjJ4/img1.webp",
+    "category": "Mountain Treks",
+    "shortDescription": "Embark on a thrilling journey through serene mountain trails and scenic vistas.",
+    "cost": 150,
+    "bookingAvailability": true,
+    "location": "Himalayas, Nepal",
+    "duration": "5 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+        "Guide",
+        "Meals",
+        "Camping Gear",
+        "First Aid Kit"
+    ],
+    "ecoFriendlyFeatures": [
+        "Plastic-free trails",
+        "Recycled camping materials",
+        "Leave no trace policy"
+    ],
+    "maxGroupSize": 12,
+    "specialInstructions": [
+        "Bring warm clothing",
+        "Carry your water bottle",
+        "Wear sturdy hiking boots"
+    ]
+}

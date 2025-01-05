@@ -1,0 +1,29 @@
+{
+    "id": 6,
+    "title": "River Rapids Adventure",
+    "image": "https://i.ibb.co.com/3NYBTgN/img6.png",
+    "category": "River Adventures",
+    "shortDescription": "Challenge yourself with a thrilling white-water rafting experience.",
+    "cost": 100,
+    "bookingAvailability": true,
+    "location": "Zambezi River, Zambia",
+    "duration": "2 days",
+    "adventureLevel": "Difficult",
+    "includedItems": [
+      "Rafting Gear",
+      "Safety Equipment",
+      "Professional Instructors",
+      "Meals"
+    ],
+    "ecoFriendlyFeatures": [
+      "Biodegradable gear",
+      "Water quality monitoring",
+      "Eco-friendly transportation"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Must be a strong swimmer",
+      "Wear quick-dry clothing",
+      "Follow safety instructions closely"
+    ]
+  }

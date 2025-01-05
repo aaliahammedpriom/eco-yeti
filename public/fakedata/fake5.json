@@ -1,0 +1,29 @@
+{
+    "id": 5,
+    "title": "Starlit Desert Exploration",
+    "image": "https://i.ibb.co.com/Mk99nSM/img5.png",
+    "category": "Desert Exploration",
+    "shortDescription": "Marvel at the vast dunes and shimmering stars in the desert night.",
+    "cost": 180,
+    "bookingAvailability": true,
+    "location": "Sahara Desert, Morocco",
+    "duration": "3 days",
+    "adventureLevel": "Moderate",
+    "includedItems": [
+      "Camel Rides",
+      "Meals",
+      "Camping Equipment",
+      "Guided Tours"
+    ],
+    "ecoFriendlyFeatures": [
+      "Solar lanterns",
+      "Eco-friendly tents",
+      "Minimized water usage"
+    ],
+    "maxGroupSize": 15,
+    "specialInstructions": [
+      "Bring sunscreen",
+      "Carry a scarf for sand protection",
+      "Stay hydrated"
+    ]
+  }

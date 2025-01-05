@@ -1,0 +1,29 @@
+{
+    "id": 4,
+    "title": "Enchanted Forest Expedition",
+    "image": "https://i.ibb.co.com/74zDqbr/img4.webp",
+    "category": "Forest Expeditions",
+    "shortDescription": "Discover the hidden wonders of pristine forests teeming with life.",
+    "cost": 120,
+    "bookingAvailability": false,
+    "location": "Amazon Rainforest, Brazil",
+    "duration": "6 days",
+    "adventureLevel": "Challenging",
+    "includedItems": [
+        "Guide",
+        "Meals",
+        "Hammocks",
+        "Rain Gear"
+    ],
+    "ecoFriendlyFeatures": [
+        "Non-invasive trails",
+        "Compost toilets",
+        "Local guides"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+        "Vaccinations required",
+        "Pack insect repellent",
+        "Wear waterproof clothing"
+    ]
+}

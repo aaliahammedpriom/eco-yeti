@@ -1,0 +1,29 @@
+{
+    "id": 2,
+    "title": "Blue Abyss Ocean Dive",
+    "image": "https://i.ibb.co.com/mvc03dj/img2.webp",
+    "category": "Ocean Dives",
+    "shortDescription": "Dive into the deep blue and explore vibrant marine ecosystems.",
+    "cost": 300,
+    "bookingAvailability": true,
+    "location": "Great Barrier Reef, Australia",
+    "duration": "3 days",
+    "adventureLevel": "Advanced",
+    "includedItems": [
+      "Diving Equipment",
+      "Underwater Photography",
+      "Safety Gear",
+      "Certified Dive Instructor"
+    ],
+    "ecoFriendlyFeatures": [
+      "Marine life conservation briefing",
+      "Eco-safe sunscreen provided",
+      "No-touch diving policy"
+    ],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Must have a diving certificate",
+      "Avoid feeding the marine life",
+      "Use eco-friendly sunscreen"
+    ]
+  }
