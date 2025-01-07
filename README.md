@@ -1,7 +1,6 @@
-# 🌿 EcoYeti - Eco-Adventure Experiences  
+# 🌿 EcoYeti - Eco-Adventure Experiences
 
 ## Welcome to EcoYeti!  
-
 EcoYeti is an eco-adventure experience website designed to promote sustainable and adventurous travel. Whether you're interested in exploring serene mountains, diving into the deep blue oceans, or learning about eco-friendly travel, EcoYeti has you covered. It offers detailed information about eco-adventures and allows users to register, log in, and connect with experts for consultation.
 
 ---
@@ -13,8 +12,8 @@ EcoYeti is an eco-adventure experience website designed to promote sustainable a
 ---
 
 ## Live Links  
-  
-- [EcoYeti Live Link 1](https://ecoyeti-51d59.web.app/)  
+
+- [EcoYeti Live Link](https://ecoyeti-51d59.web.app/)
 
 ---
 
@@ -82,23 +81,39 @@ EcoYeti is an eco-adventure experience website designed to promote sustainable a
 
 ---
 
-## Screenshots  
+## Dependencies  
 
-### Page with Home 
-![Home](./src/img/demo1.jpg)  
-
-### Page with Explore Details  
-![Explore Details](./src/img/demo2.jpg)  
-
-### Page with Eco Tours  
-![Eco Tours](./src/img/demo3.jpg)  
-
-### Page with LogIn  
-![LogIn](./src/img/demo4.jpg) 
-
-### Page with Registration  
-![Registration](./src/img/demo5.jpg) 
+- **React**: For building the UI.  
+- **TailwindCSS**: For styling.  
+- **DaisyUI**: For pre-built UI components.  
+- **Animate.css**: For animations on the homepage.  
+- **React Router**: For routing between different sections.  
 
 ---
 
-# Thank You for Exploring EcoYeti! 🌎💚  
+## Running the Project Locally
+
+
+## 🚀 Steps to Run on Your Local Machine:
+
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/your-username/ecoyeti.git
+    ```
+
+2. **Navigate into the Project Folder:**
+    ```bash
+    cd ecoyeti
+    ```
+
+3. **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+
+4. **Run the Project:**
+    ```bash
+    npm start
+    ```
+
+---
